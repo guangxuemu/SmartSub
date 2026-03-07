@@ -1792,3 +1792,28 @@ https://xn--9kqt60cjmy.shop/s/d4f82ec6f047d84ca1f5dbfa3a434b9a	http_403
 https://xn--9kqt60cjmy.shop/s/f39fdea47c17bec135edbcdf8ec87612	http_403
 https://xn--9kqt60cjmy.shop/s/d027b796fe0f1bb676a64b8795315e43	http_403
 https://xn--9kqt60cjmy.shop/s/f10169a72c1ade201b1d75b2b4eb2ce4	http_403
+
+=== 2026-03-08 04:36:31 - 失效订阅 (17 个) ===
+http://%E2%AD%90%EF%B8%8F%E8%B5%84%E6%BA%90%E4%BB%8B%E7%BB%8D%EF%BC%9APleyr.net/	request_failed
+https://www.applnn.com/41756.html	http_403
+https://www.applnn.com/40305.html	http_403
+https://www.applnn.com/46525.html	http_403
+https://www.applnn.com/42365.html	http_403
+https://www.applnn.com/42468.html	http_403
+https://www.applnn.com/36597.html	http_403
+https://www.applnn.com/42246.html	http_403
+https://suba.f2vip.net/api/v1/client/subscribe?token=2807f408045a41254765edd6ad63aa45	http_403
+https://youtu.be/fJZCSAe-SbI	http_429
+https://youtu.be/qCkjLMPKygw	http_429
+https://youtu.be/ghZLHPEGfVc	http_429
+https://youtu.be/kGKKr6WTrJc	http_429
+https://youtu.be/MvJwoEo6-JU	http_429
+http://102.22.81.175:53/	request_failed
+http://102.22.81.201:53/	request_failed
+http://185.0.0.0/8	request_failed
+
+=== 2026-03-08 04:36:55 - 失效订阅 (4 个) ===
+https://suba.f2vip.net/api/v1/client/subscribe?token=06dd0002364ca230a2c02189650fa8a9	http_403
+https://suba.f2vip.net/api/v1/client/subscribe?token=491648270cf45856c60c142112ed2cdf	http_403
+https://suba.f2vip.net/api/v1/client/subscribe?token=f42525348eec85c2398c74900020764a	http_403
+https://suba.f2vip.net/api/v1/client/subscribe?token=b25280beeeca8feefa6cb4412c6f4aa0	http_403
