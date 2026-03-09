@@ -1856,3 +1856,45 @@ https://s34.picofile.com/file/8490543050/SlipNet_v2_2_3_lite_release_universal.a
 http://dns.google/	request_failed
 http://dns.quad9.net/	request_failed
 http://common.dot.dns.yandex.net/	request_failed
+
+=== 2026-03-10 04:45:43 - 失效订阅 (36 个) ===
+https://www.applnn.com/46555.html	http_403
+https://www.applnn.com/46542.html	http_403
+https://www.applnn.com/42517.html	http_403
+https://www.applnn.com/42484.html	http_403
+https://123.tsm.cc.cd/sub/user/eyJ1IjoiTWF2aXRh6I2J5rOl6ams6YC8IiwiZSI6MTc3NTIzNzE3MzkxOSwicyI6IjYxZDRhNTZlODMzODEyMDQifQ?isp=mobile	http_429
+https://123.tsm.cc.cd	http_429
+https://123.tsm.cc.cd/	http_429
+https://v2rayse.com/fs/public/20260304/ba1ntri.yaml	request_failed
+https://v2rayse.com/fs/public/20260303/hgh8z6m.yaml	request_failed
+https://v2rayse.com/fs/public/20260305/k44hugq.txt	request_failed
+https://v2rayse.com/fs/public/20260307/2obm53r.txt	request_failed
+https://v2rayse.com/fs/public/20260302/aqywtn5.json	request_failed
+http://102.22.108.2/	request_failed
+http://102.23.196.253/	request_failed
+http://102.22.195.106/	http_404
+http://102.22.109.225/	request_failed
+http://102.23.220.66/	request_failed
+http://102.22.83.142/	http_403
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%214Y=	request_failed
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%28Ga=v	request_failed
+http://217.219.173.237/	request_failed
+http://185.176.59.209/	request_failed
+http://178.22.122.246/	request_failed
+http://102.37.109.39/	request_failed
+http://185.208.182.159/	request_failed
+http://178.252.143.133/	request_failed
+http://102.23.198.210/	request_failed
+http://185.94.96.22/	request_failed
+http://188.136.162.104/	request_failed
+http://178.131.180.73/	request_failed
+http://217.66.203.211/	request_failed
+http://185.176.59.49/	request_failed
+http://185.176.59.254/	request_failed
+http://102.23.168.24/	request_failed
+http://178.252.178.210/	request_failed
+https://uploadb.me/dd42qipoilv9	request_failed
+
+=== 2026-03-10 04:46:08 - 失效订阅 (2 个) ===
+https://vess.zhuk.dpdns.org/2026/0216/c.yaml	http_404
+https://vess.zhuk.dpdns.org/2026/0216/v.txt	http_404

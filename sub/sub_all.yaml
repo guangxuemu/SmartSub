@@ -46,12 +46,12 @@ clash订阅:
 - https://raw.githubusercontent.com/ts-sf/fly/main/clash
 - https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml
 - https://vess.zhuk.dpdns.org/2026/017/c.yaml
-- https://vess.zhuk.dpdns.org/2026/0216/c.yaml
 - https://vess.zhuk.dpdns.org/2026/0223/c.yaml
 - https://vess.zhuk.dpdns.org/2026/0608/c.yaml
 - https://vess.zhuk.dpdns.org/2026/109/c.yaml
 - https://vess.zhuk.dpdns.org/2026/26/c.yaml
 - https://vess.zhuk.dpdns.org/2026/erw/c.yaml
+- https://vess.zhuk.dpdns.org/2026/ju/c.yaml
 - https://vess.zhuk.dpdns.org/2026/l/c.yaml
 - https://vess.zhuk.dpdns.org/2026/one/c.yaml
 - https://vess.zhuk.dpdns.org/2026/san/c.yaml
@@ -102,6 +102,7 @@ v2订阅:
 - https://msk.vless-balancer.ru/sub/dXNlcl82Nzg4MzMxMjQ5LDE3Njk1MzUzMTkBqGm3A1STd#Subscription
 - https://onlysub.mjurl.com/api/v1/client/subscribe?token=604e9bcae08c996e81eef63c2f71f878
 - https://onlysub.mjurl.com/api/v1/client/subscribe?token=6dbf0b92279e3ca9448b883496d8870f
+- https://platform.djjc.cfd/api/v1/client/subscribe?token=7b7beb3a13f6aac12987c68d8bc36692
 - https://pro.crosswall.cc/api/v1/client/subscribe?token=9eeb26b3aa63a928f60626e24f58bf8f&amp;types=hysteria2
 - https://raw.githubusercontent.com/10ium/free-config/refs/heads/main/HighSpeed.txt
 - https://raw.githubusercontent.com/AzadNetCH/Clash/refs/heads/main/AzadNet_iOS.txt
@@ -172,22 +173,25 @@ v2订阅:
 - https://suba.f2vip.net/api/v1/client/subscribe?token=401165cd13a639a903dc5077a2847b47
 - https://suba.f2vip.net/api/v1/client/subscribe?token=52f74740b27fd33497f552ee67867d71
 - https://suba.f2vip.net/api/v1/client/subscribe?token=597bde247ad40af73113726bc616f1be
+- https://suba.f2vip.net/api/v1/client/subscribe?token=615b2d17d77f83528611acdb61177d87
 - https://suba.f2vip.net/api/v1/client/subscribe?token=8d50c7b849fc4e32c4271f8968f2dbaa
+- https://suba.f2vip.net/api/v1/client/subscribe?token=8eb78e83430094caefa8f8a5bc8abcfd
 - https://suba.f2vip.net/api/v1/client/subscribe?token=acd6f24bf11bce868003ea7708bf28cb
 - https://suba.f2vip.net/api/v1/client/subscribe?token=ad92caa259081b1e7b9ce9a153d3d6b9
 - https://suba.f2vip.net/api/v1/client/subscribe?token=b6774558b69d7fcf413b1fb135edc30c
+- https://suba.f2vip.net/api/v1/client/subscribe?token=e37a2b4ec0f5c40c7589ab10dee63760
 - https://suba.f2vip.net/api/v1/client/subscribe?token=f863588c6ca4fee4f4ec9bd1c75e5a14
 - https://subscribe002.awsy.top/subscribego/65c6b8839c2bab8db2310b39dc200b01
 - https://subscribe003.awsy.top/subscribego/103e55518510ee873039dd98ee3ff8d0
 - https://subscribe003.awsy.top/subscribego/d05c5c39286c38bc1e2c752b63e336aa
 - https://uuuuid.xem.lat/xemsub/64e580317a07548ceee29cf6653d772f
 - https://vess.zhuk.dpdns.org/2026/017/v.txt
-- https://vess.zhuk.dpdns.org/2026/0216/v.txt
 - https://vess.zhuk.dpdns.org/2026/0223/v.txt
 - https://vess.zhuk.dpdns.org/2026/0608/v.txt
 - https://vess.zhuk.dpdns.org/2026/109/v.txt
 - https://vess.zhuk.dpdns.org/2026/26/v.txt
 - https://vess.zhuk.dpdns.org/2026/erw/v.txt
+- https://vess.zhuk.dpdns.org/2026/ju/v.txt
 - https://vess.zhuk.dpdns.org/2026/l/v.txt
 - https://vess.zhuk.dpdns.org/2026/one/v.txt
 - https://vess.zhuk.dpdns.org/2026/san/v.txt
@@ -199,7 +203,7 @@ v2订阅:
 - https://xfapp.quickbeevpn.com/api/v1/client/subscribe?token=f29a710191d5672892c2401084c5eb07&amp;flag=meta
 开心玩耍:
 - 可用流量:100.0 GB                    https://sub.shadowproxy66.workers.dev/sub/be80a76c-6044-417c-9bff-e587f9380d05#ShadowProxy66
-- 可用流量:1302.4 GB                    https://ys.jiedianxielou.workers.dev:443
+- 可用流量:1536.89 GB                    https://ys.jiedianxielou.workers.dev:443
 - 可用流量:200.0 GB                    https://www.Gboard.surf:2087/sub/emFhcjFfNjk3NTgzMCwxNzcxNDU2NTQxyLdMmd5dc6
 - 可用流量:961089.12 GB                    https://www.xrayvip.com/free.txt
 机场订阅:
