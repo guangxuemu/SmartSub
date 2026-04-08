@@ -3195,3 +3195,19 @@ http://109.109.34.118/	request_failed
 http://94.183.163.248/	request_failed
 http://89.46.219.16/	request_failed
 http://37.191.79.105/	request_failed
+
+=== 2026-04-09 04:57:00 - 失效订阅 (11 个) ===
+https://www.applnn.com/42698.html	http_403
+https://suba.f2vip.net/api/v1/client/subscribe?token=44fbac7f5791ba912cd46d73b5a6546d	http_403
+https://suba.f2vip.net/api/v1/client/subscribe?token=6e621af4abee16e1ca8685fedf0306f4	http_403
+https://s.winniezz.top/ra8Fav	http_403
+https://link123.52pokemon99.cc/api/v1/client/subscribe?token=e0b2edc2436d4a4bea3af92931555e2a	http_403
+https://ld88.nxxbbf.com/#/register?code=FvHtMLpN	request_failed
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%21gg1r=P	request_failed
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%284X~4=	request_failed
+http://2.188.21.2/	request_failed
+http://guardnet.ir/uploads/1775653330_87d0fbf7.ogg	request_failed
+https://guardnet.ir/uploads/1775609036_862715bd.ogg	request_failed
+
+=== 2026-04-09 04:57:22 - 失效订阅 (1 个) ===
+https://suba.f2vip.net/api/v1/client/subscribe?token=3e340bc2a054854937ebc8049df60906	http_403
