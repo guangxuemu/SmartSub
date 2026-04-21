@@ -3732,3 +3732,19 @@ http://193.186.32.141/	request_failed
 http://2.180.31.174/	request_failed
 http://81.16.121.93/	request_failed
 http://45.148.250.241/	request_failed
+
+=== 2026-04-21 10:33:58 - 失效订阅 (11 个) ===
+http://MEMORY.md	http_403
+http://MEMORY.md/	http_403
+https://www.anthropic.com/news/introducing-anthropic-labs	request_failed
+https://www.anthropic.com/news/claude-opus-4-7	request_failed
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%21j3D=P	request_failed
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%21od%29%212=IssiJ%3A%2F%2FPo%212mpV2%2AuMajE	request_failed
+https://myp.dpenly.org/#/register?code=LwqGdDJr	request_failed
+https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/vless	http_404
+https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/actives.txt	http_404
+http://5.144.130.27/	request_failed
+http://5.144.130.159/	request_failed
+
+=== 2026-04-21 10:34:22 - 失效订阅 (1 个) ===
+https://jkun.waimaosass.icu/api/v1/client/subscribe?token=8b287b66a6cc053d6ead8e1aae1bd300	http_502
