@@ -3748,3 +3748,7 @@ http://5.144.130.159/	request_failed
 
 === 2026-04-21 10:34:22 - 失效订阅 (1 个) ===
 https://jkun.waimaosass.icu/api/v1/client/subscribe?token=8b287b66a6cc053d6ead8e1aae1bd300	http_502
+
+=== 2026-04-21 11:44:43 - 失效订阅 (2 个) ===
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%29c=H	request_failed
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%21DCTD=	request_failed
