@@ -4945,3 +4945,49 @@ http://2.188.162.72/	request_failed
 http://93.115.127.105:53/	request_failed
 http://2.188.162.73/	request_failed
 http://77.104.115.161/	request_failed
+
+=== 2026-05-08 05:07:03 - 失效订阅 (41 个) ===
+https://www.applnn.com/41262.html	http_403
+https://suba.f2vip.net/api/v1/client/subscribe?token=10b8630b112a47dd945ed05d89e85cd0	http_403
+https://suba.f2vip.net/api/v1/client/subscribe?token=06a2e1a1d2bfadf280cb777384eb57a0	http_403
+https://suba.f2vip.net/api/v1/client/subscribe?token=46bfc8aaba9d0fe5c362460218dbdb5c	http_403
+https://apps.apple.com/ru/app/incy/id6756943388	request_failed
+http://149.102.250.14/	request_failed
+http://79.127.211.213/	request_failed
+http://217.219.133.161/	request_failed
+http://173.245.58.0/	http_403
+http://79.127.170.12/	request_failed
+http://79.127.170.15/	request_failed
+http://156.146.33.97/	request_failed
+http://207.211.215.145/	request_failed
+https://www.instagram.com/reel/DUIRc4aCkEz/?igsh=NTc4MTIwNjQ2YQ==	http_429
+https://punkpaste.ir/f/20260507-0DMzaO-nkws-cm9e4s	request_failed
+https://punkpaste.ir/f/20260507-I5gNFvWb9zk-29f4z1	request_failed
+http://74.80.77.245/	request_failed
+http://74.80.77.247/	request_failed
+http://74.63.24.206/	request_failed
+http://74.63.24.211/	request_failed
+http://185.140.4.76/	request_failed
+http://46.164.99.102/	request_failed
+http://188.122.68.216/	request_failed
+http://74.80.77.246/	request_failed
+http://83.212.7.243/	request_failed
+http://74.63.24.208/	request_failed
+http://74.120.14.49/	request_failed
+http://185.129.215.43/	request_failed
+http://216.147.121.181/	request_failed
+http://74.63.24.205/	request_failed
+http://44.244.148.52/	request_failed
+http://62.60.136.105/	request_failed
+http://216.147.121.35/	request_failed
+http://172.253.228.150/	request_failed
+http://172.253.12.145/	request_failed
+http://37.148.15.105/	request_failed
+http://188.122.68.218/	request_failed
+http://85.133.207.5/	request_failed
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%21v=%2888K%28KKgg%2AM7%28%28LLsgK	request_failed
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?1rV=	request_failed
+https://uploadgirl.ir/d/9f7c9410-1a56-4d39-9a27-c18f29ad4664	request_failed
+
+=== 2026-05-08 05:07:34 - 失效订阅 (1 个) ===
+https://hermes.xiaoyao-88.com/s/fc855e7d18c79fa73ba99ab4be30d088	request_failed
