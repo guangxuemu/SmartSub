@@ -1,9 +1,9 @@
 -- play_list --
 
 
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
 https://srfux4zuwq.qinyues4.cc/5ef430af5b56abc014330269fd045864
 https://app.farnet.top/s/cc1cf441ef2b288322779b6fff70ba76?flag=meta
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
 https://ys.jiedianxielou.workers.dev:443
 https://www.xrayvip.com/free.txt
 https://aeccghuyjftyg.shop/s/075db3dd2ba2b69fded89428c024e5fa
