@@ -8742,3 +8742,21 @@ https://sub.pai.yt/clash	request_failed
 https://onlysub.mjurl.com/api/v1/client/subscribe?token=1b7498883b73f711149fef9d4f456291	request_failed
 https://pai.yt/base64?preset=other	request_failed
 https://onlysub.mjurl.com/api/v1/client/subscribe?token=6b76943778588067b65a722e78c3c4d8	request_failed
+
+=== 2026-05-25 04:59:44 - 失效订阅 (12 个) ===
+https://ktm001.top/api/v1/client/subscribe?token=bbe0986ab831f1e21c3f02d79476c6de	http_403
+https://punkpaste.ir/f/ShirOKhorshid-v2026--upw42a	request_failed
+https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/South%20Africa/config.txt	http_404
+https://seup.shop/f/vl64m	request_failed
+https://uplod.ir/hwtgsdowwj8s/Instagram.zip.htm	request_failed
+https://uplod.ir/jqacekf7op3b/MahsaNG_16_universal.zip.htm	request_failed
+https://uplod.ir/n8f27eicimms/openvpn-connect-3.8.0.4528_signed.zip.htm	request_failed
+https://uplod.ir/9p1khwo8geur/WhatsApp.zip.htm	request_failed
+https://uplod.ir/i322162h8cld/v2rayN-windows-64.zip.htm	request_failed
+http://45.147.76.238/	request_failed
+https://guardts.ir/f/ProxyArc	request_failed
+https://guardts.ir/f/1b87bb39259f	request_failed
+
+=== 2026-05-25 05:00:12 - 失效订阅 (2 个) ===
+https://sub.xnyun.wiki/xxntoken=/b3adce8dcecf7ac05452ee5dfca0e7ae	http_403
+https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=3903474a85e08f730d6707d5c5cfe38f	request_failed
