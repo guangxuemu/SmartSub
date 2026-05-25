@@ -1,11 +1,10 @@
 -- play_list --
 
 
-https://dt.shdetai.cn/s/66b377cb2b710b10fab953c5eacc2cb2
-https://srfux4zuwq.qinyues4.cc/5ef430af5b56abc014330269fd045864
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
-https://app.farnet.top/s/cc1cf441ef2b288322779b6fff70ba76?flag=meta
 https://ys.jiedianxielou.workers.dev:443
+https://srfux4zuwq.qinyues4.cc/5ef430af5b56abc014330269fd045864
+https://app.farnet.top/s/cc1cf441ef2b288322779b6fff70ba76?flag=meta
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
 https://s.vip54.dpdns.org/nlDtrSaT
 
 
@@ -13,7 +12,6 @@ https://s.vip54.dpdns.org/nlDtrSaT
 
 
 https://app.farnet.top/s/cc1cf441ef2b288322779b6fff70ba76?flag=meta
-https://dt.shdetai.cn/s/66b377cb2b710b10fab953c5eacc2cb2
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
 https://s.vip54.dpdns.org/nlDtrSaT
 https://srfux4zuwq.qinyues4.cc/5ef430af5b56abc014330269fd045864
