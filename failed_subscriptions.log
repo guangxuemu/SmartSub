@@ -8889,3 +8889,30 @@ http://doh.360.cn/	request_failed
 https://onlysub.mjurl.com/api/v1/client/subscribe?token=60b3ce987e0dd7144703c6b8b6dd9553	request_failed
 https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=1a52da8b94f2ffc6edaa47f215f54659	request_failed
 https://onlysub.mjurl.com/api/v1/client/subscribe?token=6a845ed6787e4060626e7443e064a041	request_failed
+
+=== 2026-05-28 05:58:44 - 失效订阅 (18 个) ===
+https://13mmx.no-mad-world.club/link/AlZPFXsE617rij09?clash=3	http_404
+https://yq8kx.no-mad-world.club/link/BGXJnoupnkCAqjZI?clash=3&amp;extend=1	http_404
+https://13mmx.no-mad-world.club/link/AlZPFXsE617rij09?clash=	http_404
+https://9kzt7.no-mad-world.club/link/BGXJnoupnkCAqjZI?clash=3&amp;extend=1	http_404
+https://2.342242.icu/api/v1/client/subscribe?token=8c2c18537b33490cac657ebf8e7d5f62	http_403
+https://2.342242.icu/api/v1/client/subscribe?token=d477a5873ebf92ebdeee34740e82b12f	http_403
+https://2.342242.icu/api/v1/client/subscribe?token=7fdc1507d30a96587c53cb2889873be4	http_403
+https://2.342242.icu/api/v1/client/subscribe?token=780b7267d998f61381ee393949f1e974	http_403
+https://2.342242.icu/api/v1/client/subscribe?token=bf1d10c80f757842152819515ed0c2dd	http_403
+https://2.342242.icu/api/v1/client/subscribe?token=6abe5553135308a2165ffd30cbad0dec	http_403
+https://2.342242.icu/api/v1/client/subscribe?token=5df8ff41a30c88fa831de28a317d246b	http_403
+https://2.342242.icu/api/v1/client/subscribe?token=244badb29dae6d5cd58f05596d9dc9e6	http_403
+https://danesh1118.github.io/jeeidhuwgehfbfoduee87hrbdoehfkfirjwohrorhfiwgtgdbfkehiebdofhrbrofjgr87hdn/	http_404
+https://cdn4.telesco.pe/file/psp_XXG5bkMUVgfaE-xPpEqIyKYKj03QMYjRro-ux0JkUCsBvDEvkHgLOPa19sSGAOWgP47z_n6KxM0SfudVT8gIDeYt8x4JGRfklNVDM6irMFj8-5HBnU3jeDJ3V2pyTawk6Ji-I8Vbz1tvm-sDmc2bKgkBidRGZrhCso3hKUgeBUel_hfb17lhSQEawY8PQ7wj4EEZv1qCbv_Y-_qo38549R4SHZS0lV7d-RDu3BGTd6Qa0dU5DMDROWCuHYT8D-FnF7Jb7S_K499Dm6H3r10-sAXETT-OyF8A3DOPyD55_oG4iLhQjSr-JgwDQ9Qsw5hj6PDtNtjU8Xr3YHLqmQ	http_500
+https://apps.apple.com/us/app/psiphon-vpn-freedom-online/id1276263909	request_failed
+http://ailian.app/	request_failed
+https://xn--u0x064d.com/	request_failed
+https://nobodydv.runflare.run/#share=95c23777-bf7d-462d-be6a-c4862fe6a61b	request_failed
+
+=== 2026-05-28 05:59:16 - 失效订阅 (5 个) ===
+https://2.342242.icu/api/v1/client/subscribe?token=2b7ccd90eeff2d84c6a0f2b3c8bdcf15	http_403
+https://2.342242.icu/api/v1/client/subscribe?token=cc616b0199920741b2feb7cfeb77df30	http_403
+https://2.342242.icu/api/v1/client/subscribe?token=3b15662e1a8b6e42abe8221007371b6f	http_403
+https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=b6c1e6751307fdf957987220411ea34c	http_403
+https://onlysub.mjurl.com/api/v1/client/subscribe?token=0886287d7cd3e49d6a6a8151b1718845	request_failed
