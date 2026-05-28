@@ -8916,3 +8916,31 @@ https://2.342242.icu/api/v1/client/subscribe?token=cc616b0199920741b2feb7cfeb77d
 https://2.342242.icu/api/v1/client/subscribe?token=3b15662e1a8b6e42abe8221007371b6f	http_403
 https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=b6c1e6751307fdf957987220411ea34c	http_403
 https://onlysub.mjurl.com/api/v1/client/subscribe?token=0886287d7cd3e49d6a6a8151b1718845	request_failed
+
+=== 2026-05-29 05:57:38 - 失效订阅 (23 个) ===
+https://apilayer.com/marketplace	request_failed
+https://cdn4.telesco.pe/file/oRmIQo5fC9S6z1Fr93_j9Vj1WxGrwujAyGH4GZ3AJQ_B1RA5fT4nMKcMbzhtnqpn293nO7n-4lXk-kISSGs3tKfSkiMi3efPeUHktMr5CTf-p5EWTKGno4iNU32BAhNbmlVbUcad8UoKnL110R6nvjRFfdlLdFV6MriB2UJJmSSALuSHQ4mPEvfaTvpD8Lk8yDplTDDq8vYLmakrasntWavybV3tBASDck9BHcJKHt6F_vryz2R7p-DoWtFzAlvwYwnycCwOB5haFi7dbjTqrEn_w7sNyDEsyHFCbQU-a0V0tGH-LMffcGIWd9YaeOuWuM8uJm4oUDYJj55yQZalWA	http_500
+http://74.82.50.5/	request_failed
+https://apps.apple.com/us/app/platovpn-super-unlimited-proxy/id6444485605	request_failed
+http://23.55.163.80/	http_400
+http://23.53.40.27/	http_400
+http://23.216.77.17/	http_400
+http://2.18.67.68/	http_400
+http://92.123.102.155/	http_400
+http://23.216.77.31/	http_400
+http://23.50.131.39/	http_400
+http://184.51.252.148/	http_400
+https://apps.apple.com/us/app/jumpjumpvpn-fast-secure/id6451097052	request_failed
+http://56.122.207.174/	request_failed
+http://78.157.32.205/	request_failed
+http://80.78.247.254/	request_failed
+http://209.244.0.3/	request_failed
+http://84.200.67.80/	request_failed
+http://132.42.7.183/	request_failed
+http://209.244.0.4/	request_failed
+http://185.40.202.5/	request_failed
+http://5.200.200.200/	request_failed
+http://216.146.35.35/	request_failed
+
+=== 2026-05-29 05:58:17 - 失效订阅 (1 个) ===
+https://onlysub.mjurl.com/api/v1/client/subscribe?token=604e9bcae08c996e81eef63c2f71f878	request_failed
