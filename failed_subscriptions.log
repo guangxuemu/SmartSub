@@ -9244,3 +9244,20 @@ http://23.64.0.1/	request_failed
 http://178.252.141.73/	request_failed
 http://37.191.84.162/	request_failed
 http://162.159.192.1/	request_failed
+
+=== 2026-06-13 05:48:38 - 失效订阅 (11 个) ===
+https://www.applnn.com/47045.html	http_404
+https://www.applnn.com/42834.html	http_404
+https://www.applnn.com/24324.html	http_404
+https://www.applnn.com/36220.html	http_404
+https://www.applnn.com/47520.html	http_404
+https://sub.613888.xyz/profiles/honghongll	http_404
+https://danesh1118.github.io/gwiwgwfgdjdgeiy86wgdbdow6tebdieggohekwbdbmcnxmdkdiegeh5wgdidbskcbdofjktkfks/	http_404
+https://danesh1118.github.io/jdsyeatfwhfndieu765tgdiehsihsifnfndoye76sgdjdoncfkdhshd/	http_404
+https://danesh1118.github.io/Hiddfy-jeisgwgeggwwgwksneoejydhdjee7w6wwgdjfkfojewyew7eyeidhdoshayjdesisj/	http_404
+https://cdn4.telesco.pe/file/OCqWupZ0SbX4MFxenjZSHiqZYL3l1r_fHdtTZRjlku3ZIIjubgqL1MQPaeFcgeUL2vo00uwlBbPCcO3cGY6ZNsnSnWuczniFlxqA88TU2mIornXXqalgrPhdzn15isoQUp_9a3tBWEfXVoLHAeLn2RI1Li3cHSVy2l1rTRE1mezsA_C3oE-D9zBmx1dZ0FUMs-Gmg9ra8NTS-NCV7IUzLFCFrk4ATElyh1RhjnIS8iwu929i4JF-50kU9Ioxjh-3uW2ViAtcD2WzTkXx6-cuqvUA064p4ipylLkz8w6e2P3aRG256HxGBSspwhCST2Ykd8uEQMJuRZKZvNICMpD2OQ	http_500
+https://clashgithub.com	request_failed
+
+=== 2026-06-13 05:49:18 - 失效订阅 (2 个) ===
+https://47.242.128.61:5000/api/v1/client/subscribe?token=868ef2ec4b3776d8845675ba8898a2c4	http_403
+https://v2rayse.com/fs/public/20260519/7dlugydl.yaml	request_failed
