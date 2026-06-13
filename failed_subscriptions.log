@@ -9261,3 +9261,14 @@ https://clashgithub.com	request_failed
 === 2026-06-13 05:49:18 - 失效订阅 (2 个) ===
 https://47.242.128.61:5000/api/v1/client/subscribe?token=868ef2ec4b3776d8845675ba8898a2c4	http_403
 https://v2rayse.com/fs/public/20260519/7dlugydl.yaml	request_failed
+
+=== 2026-06-14 05:19:54 - 失效订阅 (9 个) ===
+https://portal.f2vip.net/#/register?code=usE0kAjm	request_failed
+https://api.v1.mk/sub?target=mixed&amp;url=https%3A%2F%2Fhktw.381209.xyz%3A10086%2Fhxlgxh888%2Feakqqykdfw7p12om&amp;insert=false&amp;config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full_NoAuto.ini&amp;emoji=true&amp;list=false&amp;xudp=false&amp;udp=false&amp;tfo=false&amp;expand=true&amp;scv=false&amp;fdn=false&amp;diyua=ShadowRocket	http_400
+https://www.wishtube.com/	http_403
+https://url.fdjgnejw.lol/X7mQ2k9P/K8VT3MQ9XR2PN7CH4AW6ZL5UF7DY2SJ?token=fddc5b1ae1a2ee9684d8ec936c65def3	http_404
+https://howdy.id/trojan-vpn/	http_403
+http://v2rayN-windows-arm64.zip/	request_failed
+http://v2rayN-windows-arm64-desktop.zip/	request_failed
+http://v2rayN-windows-64-desktop.zip/	request_failed
+https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/channels/protocols/hysteria	http_404
