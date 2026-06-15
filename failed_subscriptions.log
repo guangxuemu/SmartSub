@@ -9283,3 +9283,18 @@ https://apps.apple.com/us/app/smarters-player-lite/id1628995509	request_failed
 
 === 2026-06-15 05:17:20 - 失效订阅 (1 个) ===
 https://chuanyun-endpoint.cc/s/aa808d72d252c9eacab5699345e89aa7	http_403
+
+=== 2026-06-16 06:22:15 - 失效订阅 (8 个) ===
+https://a.111477.xyz/	http_403
+https://a.111477.xyz	http_403
+https://www.youtube.com/watch?v=_r0Zmf3CXYs	http_429
+https://gfyweuuchsa.sho	request_failed
+https://www.youtube.com/watch?v=2UbUluxa5wY	http_429
+https://gfyweuuchsa.shop/fa/affiliates/?btag=914641_l303106	http_403
+http://4.8.19.0/	request_failed
+http://54.37.77.112:2096/sub/rs09yosr5fm8ecv9	request_failed
+
+=== 2026-06-16 06:23:00 - 失效订阅 (3 个) ===
+https://py.farafile.com/sub/djMsMjIzNywxNzgxMzU2ODMy51de98284f	http_404
+https://ugn6oj8di4frhf.eepzau.org/CLBAqqtg/sUPllaKh?token=065b35f3d978ac0671e7fb5884a5e74f	request_failed
+https://ugn6oj8di4frhf.eepzau.org/CLBAqqtg/sUPllaKh?token=c31f45c7cb2dabdb642e9848255159d6	request_failed
