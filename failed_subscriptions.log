@@ -9480,3 +9480,9 @@ https://cdn4.telesco.pe/file/6e083aad0e.mp4?token=KKX-Q5-OWQ1dgQTeSy5i3bUVJC4sir
 https://cdn4.telesco.pe/file/2e1c6203f6.webp?token=p0ZvzmeHy7QdwhhPMiMjCL9Znn5LD34IfDXzQ9oKp9F7w5-2y-rt0lbJVSt3Znakhkv1Js0SysBmBVllK2IwXpdhnY6E5dEkbzqxfMbV3XJaMVmM5VtURr6n4mywjh2Uojnc_nQxsBXmiQqN5aGzkUF6R35ChFR9SvYb9EBTi6y5k5Skp3bNv1mu01l-5lHqxVtIMoVrD1p5a8yDhv2Nedee_tSqm41AGzv9ThTg5EwQouYEC8dyVoRk0biIPcEkUs93LF0YwLnvQi-Mq0htcrYGk2-iEIsAdQ8FVXt2-FB_VvDlOOFM6GsuSScM75QGFjOZ2epinoyzDQikjDOVxQ	http_500
 https://api.github.com/cmc_internal/api	http_404
 http://asusiran.com/	request_failed
+
+=== 2026-06-28 05:06:17 - 失效订阅 (4 个) ===
+https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf	http_429
+https://wulass.org/#/register?code=wK6v2ahH	request_failed
+http://1.4.2.56/	request_failed
+https://mafclub.online/fa/?btag=260368	request_failed
