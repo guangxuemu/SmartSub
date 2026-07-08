@@ -9643,3 +9643,16 @@ https://tempmail.dev	request_failed
 === 2026-07-08 05:28:24 - 失效订阅 (2 个) ===
 https://3cc4f296.wyxhuawei.com/subscribe/clash/add1d3789cb7a8b05a00851d156873f9	http_403
 https://dash.pqjc.site/api/v1/pq/253330243f1b11c9899c4bd380abe232	http_403
+
+=== 2026-07-09 05:12:21 - 失效订阅 (8 个) ===
+https://getomni.ai/ocr-demo	http_404
+https://link123.52pokemon66.cc/api/v1/client/subscribe?token=cc593c1e04d128ea0cb23a89b504149c#%E5%AE%9D%E5%8F%AF%E6%A2%A6	http_403
+https://spflyfish.sbs	request_failed
+https://spflyfish.sbs/	request_failed
+https://cdn.pikayun.com/s/d27d6e1214b90b2d7349c07bd2c00859	http_404
+https://ransa.niubiliuliuliuwocao.a.kuaivpn.app/api/v1/client/subscribe?token=35fbc85672b3c3e49de4dc37161c5b67	http_403
+https://llgapi.tannel.asia/s/eeb63c90775961197393e389b5f681e9#%E6%B5%81%E9%87%8F%E5%85%89-llG%20New	http_403
+https://cdn1.telesco.pe/file/4dd83b5bba.mp4?token=WTeso_tG57VvXA5tqUW-8nq8RccclPySNPLMf05tMw_rpVFQNJL1NuYc5mbGS5o19c_fSvJVzKK6p28AbRNSPh5is6JQPBH6pmDTtNXhpQNW8gky8fA-uqecVaKlgztpWl1scIPbJ6fD5gn-8isg2YbJ1H10W_tovvdCm9Rav52K0drOBY2LVRcVqpsRtwwbRA0p1KW79UCKdf6iHFIeEJg1eJcEqdNNjhvYf_aO6sBHPnyx8RD3N6NZXDBiBEZ9pOs1DoCeiGyQ98ZPXKjxd-TFX89QYD9775Xccb4_XoA1RQpqMUfaNdJ9jBUpiyZhOxK6AZ_Q_APgMN5jIkVWbQ	http_502
+
+=== 2026-07-09 05:13:16 - 失效订阅 (1 个) ===
+https://wulan.sbs/s/ef8c31d3087461b2c90769131f2ea4e2	http_403
