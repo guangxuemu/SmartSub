@@ -9656,3 +9656,11 @@ https://cdn1.telesco.pe/file/4dd83b5bba.mp4?token=WTeso_tG57VvXA5tqUW-8nq8RccclP
 
 === 2026-07-09 05:13:16 - 失效订阅 (1 个) ===
 https://wulan.sbs/s/ef8c31d3087461b2c90769131f2ea4e2	http_403
+
+=== 2026-07-10 05:25:36 - 失效订阅 (3 个) ===
+https://e.lllm.dpdns.org/sub?token=c85b063ee357e64646695afbe0dcfb90&amp;b64	http_429
+https://kaze1.aisaka-taiga.com/oosaka/35978e24974cc0a4059bac0f8562f59a	http_404
+https://cdn4.telesco.pe/file/QnNpd1Vr1cTsaf2l3rzJfbsc0dUj2gUGjOoWxbqIaa5Xm20ubFNghmV-R6vKPuCCZOB-JvxCD9pItUyE_q_w-9_XYfIee_7wXclLHFsC9pCP89nKJAE_ruMbWWDAYQk7O_SsKdnb0hAb648tolOnKK1uSk7mJ9NwI1l4yBB3u-_y495BZjMBYFF90hkCf805TRCKMF3gX0KehrrR86y55YguyDBkBXSFbiK9B1mci1QhPT61trgwE1pgTf3RbjeUArescqOuecJukKf8zyTRGYIExbjnzpgXSkZYU1r5YvJwORiL1lMYWO-B4Df3TT4Gxdi3JSHhWmJm_sXl-B-7WA	http_500
+
+=== 2026-07-10 05:26:32 - 失效订阅 (1 个) ===
+https://gh-proxy.com/raw.githubusercontent.com/ssrsub/ssr/master/clash.yaml	http_403
