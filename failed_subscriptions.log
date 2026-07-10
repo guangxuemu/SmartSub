@@ -9664,3 +9664,17 @@ https://cdn4.telesco.pe/file/QnNpd1Vr1cTsaf2l3rzJfbsc0dUj2gUGjOoWxbqIaa5Xm20ubFN
 
 === 2026-07-10 05:26:32 - 失效订阅 (1 个) ===
 https://gh-proxy.com/raw.githubusercontent.com/ssrsub/ssr/master/clash.yaml	http_403
+
+=== 2026-07-11 05:07:57 - 失效订阅 (8 个) ===
+https://e.lllm.dpdns.org/sub?token=c85b063ee357e64646695afbe0dcfb90	http_429
+https://bgpview.io	request_failed
+http://iplocation.net/	http_403
+https://iplocation.net/	http_403
+https://iplocation.net	http_403
+https://bgpview.io/	request_failed
+https://te.tuotuoyun.fyi/#/register?code=Bm6mfftg	http_403
+https://cdn4.telesco.pe/file/8983bce5d9.webp?token=Z3qJddI3sjZ4SeryrLzLy2pt_oNceJOWKfS-s9Q-15iBauN__NLlf8vNNKE3fUTzosP_4A3nCIltzkfAbrhspnVWkV7t2Zgr6bflL3UuMoFSd0RnritbktYGbrrMybO4R3V1a6sLVljUXZM839XxmYxP1o6DJBgc2gzfUdMruAC0EofUSeeRqaw2EoCONPttGe3aaIwz8JRvni1_ALfUbB8arVdfX_4C0Xwmg35_NJByaC75x4BTmw2skNnWv_O9CjMCNVnyRuPVHtSoo64Ri7aoYTNA2XfAJSSdwUi8ANFVLDmGNrsn-Q06n9BKox8oGHW_wba9uDJInNEnXrlt_g	http_500
+
+=== 2026-07-11 05:08:37 - 失效订阅 (2 个) ===
+https://dingyue.bbec.cc/dingyue/13b4f58f18dc92165ca8b510e0322802	http_403
+https://dingyue.bbec.cc/dingyue/7d534421ca871eb39badeac39c799476	http_403
