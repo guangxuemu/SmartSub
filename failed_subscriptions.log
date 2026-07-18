@@ -9783,3 +9783,27 @@ https://cdn4.telesco.pe/file/ae0d5c751a.mp4?token=mqlUfp0zSK6T-WFaw4em0kb4LEpSNu
 
 === 2026-07-18 04:58:53 - 失效订阅 (1 个) ===
 http://proxypool.zshabai.cc/	http_404
+
+=== 2026-07-19 04:52:58 - 失效订阅 (8 个) ===
+https://github.com/xai-org/grok-build/blob/main/crates/codegen/xai-grok-pager/docs/user-guide/11-custom-models.md	http_429
+https://www.ia.ac.cn/xwzx/ttxw/202607/t20260718_8251674.html	request_failed
+https://cdn1.telesco.pe/file/NxTSDI5bEfL7I_a9Hm4RUnqPp06wFRRpHlkMmvJkxjGzEf_cRoYbrEF4FNhO1dMo54ZJNBEmCmlmrmYY25s-KtfhUG8bG4dthQ_BORczE1MchciMy6FnHCKoHEq1P3zZGAkEGrCV7BnqEpuc0DlRN8MR_rdMxhP2Kcl8Vdx01ZFyDFz5-qlgj7gJKw6WmiLlpsce2ctzlKlhI7HFtWDBA_n0vUHGpHzhecV-lAMfC4O6H_7KtKQwYXo_S1Xo_uFG3TXS8XQa-ssyqom6h75_9eyKEAnQ3Is745ivi1xN66SatC-YTn7PWErDelKO8rYeZRhdPybl_U1hfJt8ielFgw	http_502
+http://103.36.135.125:8123/api/v1/client/subscribe?token=2a6d47a7472af6c6c29d7bc56a859ebf	http_404
+https://a95e9198-0671-11f0-9426-f23c932f2c32:a95e9198-0671-11f0-9426-f23c932f2c32@5c78e09e-thxmo0-tjdj5q-azvy.cldvpuk.cdnbytescm.com:443?sni=5c78e09e-thxmo0-tjdj5q-azvy.cldvpuk.cdnbytescm.com#%F0%9F%A5%8950@oneclickvpnkeys	http_403
+https://a95e9198-0671-11f0-9426-f23c932f2c32:a95e9198-0671-11f0-9426-f23c932f2c32@c0a5bcb4-thtxc0-ths4hq-azvy.cldvpuk.cdnbytescm.com:443?sni=c0a5bcb4-thtxc0-ths4hq-azvy.cldvpuk.cdnbytescm.com#%E2%9A%99%EF%B8%8F92@oneclickvpnkeys	http_403
+https://3f514ea2-4662-11ed-a8bf-f23c91cfbbc9:3f514ea2-4662-11ed-a8bf-f23c91cfbbc9@395fb49a-ta1og0-tb5rbt-1kcpe.uk.oshuawei.com:443?sni=395fb49a-ta1og0-tb5rbt-1kcpe.uk.oshuawei.com#%F0%9F%A5%8967@oneclickvpnkeys	http_403
+https://nodebuf.com/files/public/cmrgbc7wa16ttpi5wuqzydmd9/download	request_failed
+
+=== 2026-07-19 04:53:54 - 失效订阅 (12 个) ===
+https://x.v50.lat/view.php?id=6c9a78e86e19bf29	request_failed
+https://v2rayse.com/fs/public/20260519/free-node-share-2000.txt	http_429
+https://v2rayse.com/fs/public/20260523/free-node-share-2000.txt	http_429
+https://v2rayse.com/fs/public/20260520/free-node-share-0800.txt	http_429
+https://v2rayse.com/fs/public/20260523/free-node-share-0800.txt	http_429
+https://v2rayse.com/fs/public/20260525/free-node-share-0800.txt	http_429
+https://v2rayse.com/fs/public/20260527/free-node-share-2000.txt	http_429
+https://v2rayse.com/fs/public/20260529/z87bfls2.txt	http_429
+https://v2rayse.com/fs/public/20260530/free-node-share-2000.txt	http_429
+https://v2rayse.com/fs/public/20260601/free-node-share-2000.txt	http_429
+https://v2rayse.com/fs/public/20260603/free-node-share-0800.txt	http_429
+https://x.v50.lat/view.php?id=76c6ea8eadae8a7b	request_failed
