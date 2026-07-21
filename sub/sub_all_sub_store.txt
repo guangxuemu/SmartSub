@@ -2,7 +2,6 @@
 
 
 https://rifiv.no-mad-world.club/link/nIHOtvpB6zMwsos7?clash=3&amp;extend=1
-https://11kk.netlify.app/.netlify/functions/sub?id=1#1kk.netlify.app
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
 https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e
 https://ys.jiedianxielou.workers.dev:443
@@ -18,7 +17,6 @@ https://s.vip54.dpdns.org/nlDtrSaT
 -- sub_list --
 
 
-https://11kk.netlify.app/.netlify/functions/sub?id=1#1kk.netlify.app
 https://api.laodayun.com/s/8a7871c791b3e74c2701e0b9639a5249
 https://api.laodayun.com/s/8a7871c791b3e74c2701e0b9639a5249#
 https://api.laodayun.com/s/aa6d00a002b1551acddf3be3110d8ae1
