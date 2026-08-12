@@ -10225,3 +10225,34 @@ http://%3D@217.28.129.81:42982/#%40Napsternetvirani%20	request_failed
 === 2026-08-12 04:47:23 - 失效订阅 (2 个) ===
 https://jkun.waimaosass.icu/api/v1/client/subscribe?token=c33af95d54dae5e4885bf69f35058b19	http_403
 https://jkun.waimaosass.icu/api/v1/client/subscribe?token=2e1ed6858345946833e3ba651f8cd1cd	http_403
+
+=== 2026-08-13 04:48:07 - 失效订阅 (21 个) ===
+https://sub2.smallstrawberry.com/api/v1/client/subscribe?token=97ec5d56efda880ae0f3da5b84317052	http_403
+https://mytoken-1.huyun.nl/api/v1/client/subscribe?token=b3912ed20639a03de23e64a3981dbd65	http_403
+https://5e8bc530-3a90-11ef-bd5b-f23c913c8d2b:5e8bc530-3a90-11ef-bd5b-f23c913c8d2b@34a027ad-tjrog0-tobupp-1rvjz.jp4.oshuawei.com/#%F0%9F%87%AF%F0%9F%87%B5JP	http_403
+https://5e8bc530-3a90-11ef-bd5b-f23c913c8d2b:5e8bc530-3a90-11ef-bd5b-f23c913c8d2b@c8f40e6a-tjrog0-tobupp-1rvjz.sg2.oshuawei.com:5228/#%F0%9F%87%B8%F0%9F%87%ACSG	http_403
+https://docs.cherry-ai.com/cherry-studio/download	http_404
+https://cdn4.telesco.pe/file/MmonOAheO7aQWhzMhOFGbrOxbZwcNvVEftcs6MXpL5ddm_80IsslZWeSpkh37X4-P3bZMvk-lxP03xM69r1JYiCls07yRI-jqLz_MNeRCj7cINd6ddf6OiTeKEfQWvMADb9oTGHVo9VnmkeWrHGrL-b2Jl4PGfg5Tam6jIgYTlKXxc0mFWzQPBMb2jBLRLzHkef5YInR026ypgEVF2IXe6H4NJ0uywejZJ-2rN1sSb9m1DuEIoVTHSz7v6SaP71BZhOtzBOuYmL0Ve1qzzpRxs3ntextHYm7PD6u4vhREPyl5PVTVui7bzJ6vkiLRhmoQjjd1IywlHKgpXiESMzLlw	http_500
+https://rikki.tomorin.xyz/HonkaiStarRail/3b47e9a1e7e1c935312f9a4ab9074392	http_404
+https://xhtoken.huyun.nl/api/xiongtoken/f7249d0ad90ef0f3e49bfea4eb2e4b8b	http_403
+https://leviko.godmojtaba.workers.dev/8080?sub=V2rayng_Fast	http_429
+https://github.com/collections	http_503
+https://github.community/	request_failed
+https://github.com/topics	http_503
+https://avatars.githubusercontent.com	request_failed
+https://github.com/why-github	request_failed
+https://github.com/partners	request_failed
+https://github.com/trust-center	request_failed
+https://github.com/orgs/community/discussions	http_503
+https://github.com/customer-stories	request_failed
+https://github.com/TheMRLL/WinXray/releases	request_failed
+https://github.com/naicfeng/ClashRForAndroid/releases	request_failed
+https://windows.github.com	request_failed
+
+=== 2026-08-13 04:48:57 - 失效订阅 (6 个) ===
+https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/batches/clash/batch_001.yaml	request_failed
+https://github.com/LonUp/NodeList/raw/main/Clash/Node/Latest.yaml	request_failed
+https://git.io/emzclash	http_404
+https://tt.vg/6RhxWqd	request_failed
+https://tt.vg/hHMYOat	request_failed
+https://tt.vg/cDxnjnV	request_failed
