@@ -10401,3 +10401,32 @@ https://raw.githubusercontent.com/zhangj360/dingyue/8157b6c8472b1e1a13465b817633
 https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/vless.txt	request_failed
 https://raw.githubusercontent.com/mosapase/v2ray-sub/refs/heads/main/sub.txt	http_429
 https://raw.githubusercontent.com/hkaa0/permalink/e8f97142d083c0f5dac55af7b6531b300f273b4d/proxy/V2ray	request_failed
+
+=== 2026-08-20 04:31:31 - 失效订阅 (18 个) ===
+http://gboard.dev/s/2e9b7b0390fc4c37c0a30ef0b237aaa3	http_403
+https://svip.ttyun.eu.org/x/VejDYtdryS3W?t=auto	http_404
+http://%E3%80%90GitHub.com/	request_failed
+http://UTC%EF%BC%8CGitHub.com/	request_failed
+https://tgz.heidong.cyou/i/HfcNIZbC	http_404
+http://gboard.dev/s/0f9fe17a3cf968ebd3ee2c3d84b724be	http_403
+https://kaze1.aisaka-taiga.com/oosaka/e198094e3e8fc21de1ebcc2491d7c992	http_403
+https://b105062.lvcha.me/?ch=105062	request_failed
+https://www.reddit.com/r/GTA6unmoderated/comments/1vso75h/flash_cyberleek_has_the_full_developmental_built/	http_403
+https://reference-url-citation.invalid/4	request_failed
+https://www.reddit.com/r/GTA6unmoderated/comments/1vso75h/flash_cyberleek_has_the_full_developmental_built/?utm_source=chatgpt.com	http_403
+https://sus.clodom.link/message/api/sourlist/fa46769fc27da043303c7d5ad3c0771b	request_failed
+https://nodebuf.com/files/public/cmsxwcio00d4qdp5wjnnd6mih/download	request_failed
+https://nodebuf.com/files/public/cmszbsszw0yovdp5w05yt3pco/download	request_failed
+https://cdn4.telesco.pe/file/MUdDnNt7rGHhre02bgiYaUGBl1529H0LpefsExprqCRW66QvnE2xMX4hyUrXdu_ItlRw45_jotNLpx9hzhTzEeS04wtgAZQb0eLzANDhogEZDd6M4q4ArVJ8MZ7a_9y2W9MnnpO1JhWyOeuW5nd-q2x5lzEledHTxljgk_SFVfr9vdC-h_0x_ircrbt9rhpxOrum388Azjc4bvPDrYNQ83CAxdGUQna7iRlbyjtFO02ELbAroXmsUT0ysvgBTLT4lxQTngamcTm0VZ9KTosTUKmwWMEoQHXtS-72f0Q9RdTASYjrdz1NnJYQ0L_p7AdPf3Oblj8M-BfK-Nt7KrLdGg	http_500
+https://pikayun.com	request_failed
+https://HotVpn.pro	request_failed
+https://twitter.com/iSegaro/status/1660754047509438470?t=1fh0Qt6DEkwU5w6Q4bi9ag&amp;s=19	request_failed
+
+=== 2026-08-20 04:32:19 - 失效订阅 (7 个) ===
+https://nodebuf.com/files/public/cmqrb59ns0604dw5wror7w0so/download	request_failed
+https://nodebuf.com/files/public/cmqzvs0pi0cmq8j5wp9lc0ema/download	request_failed
+https://v2rayse.com/fs/public/20260408/7g2rh6i.yaml	request_failed
+https://v2rayse.com/fs/public/20260424/free-node-share-2000.yaml	request_failed
+https://v2rayse.com/fs/public/20260426/free-node-share-0800.yaml	request_failed
+https://nodebuf.com/files/public/cmrxglszq0j2kvi5wg69y35u2/download	request_failed
+https://v2rayse.com/fs/public/20260517/free-node-share-0800.txt	request_failed
