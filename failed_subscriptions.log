@@ -10430,3 +10430,21 @@ https://v2rayse.com/fs/public/20260424/free-node-share-2000.yaml	request_failed
 https://v2rayse.com/fs/public/20260426/free-node-share-0800.yaml	request_failed
 https://nodebuf.com/files/public/cmrxglszq0j2kvi5wg69y35u2/download	request_failed
 https://v2rayse.com/fs/public/20260517/free-node-share-0800.txt	request_failed
+
+=== 2026-08-21 04:31:00 - 失效订阅 (16 个) ===
+http://gboard.dev/s/14580c9c3b8ec5f986254ce2e39e6dfd	http_404
+http://gboard.dev/s/ffd994522feb02e76bf7ee05dfc57b71	http_404
+http://gboard.dev/s/961f5a32ae283ef209071aad59244f31	http_404
+https://gboard.dev/#/register	http_403
+https://e105039.lvcha.me/?ch=105039	request_failed
+https://gboard.dev/	http_403
+https://cdn4.telesco.pe/file/Z5Og1pHGnGYMMWwFbOpr_BZZuNmEhTFIwpxZd2Az4g_CiHqqhLJMHvC2-JouaZlJ2ToAQap5bv7vNb3ISAbh13rXRk0BBxZWtlvu_QxzKT-nwU7C2XoZI7jzekupxlPlGRuoCXPGEB-n1rIspUUp5gqZ20BHaOmMWbGgKdPJAlxEnhuH-suG3JJ3S1keXpr-_vueDa_LHAFPY6CX6gbdnO4mDS2dN0tewMpc1hJIENwQxgSkBoEXvRsOTLcWet4dEkOD2z6ZpRMxaLXzrWX9zrcHx5oDP3X2oOMeq_UzUd1n0mG-uf3FijTYVzvbxJtQykKfM_WPAnui5BVL_oknXw	http_500
+http://gboard.dev/s/ffd994522feb02e76bf7ee05dfc57b71#	http_404
+http://gboard.dev/s/961f5a32ae283ef209071aad59244f31#	http_404
+http://gboard.dev/s/3e70f1e905277f123eadbd37037cec59#	http_404
+https://sso.yuetoto.com/api/v2/avatar/2e9dd6b1d15732ae1c602c7c2205e41b	http_403
+http://gboard.dev/s/14580c9c3b8ec5f986254ce2e39e6dfd#	http_404
+https://6f243398.neworld.digital/link/re8lWPtcdeuitFjiiM6qU5k0DSacEJQxV5bJ2ZSkafXE8SAikcXAwPo?sub=3	http_429
+https://cdn4.telesco.pe/file/38ea8170b7.mp4?token=F0iGtILEZDh1SgQC2MTOl68aryrp5GLhmtAf5Keawu19QEP3gvpLJourd5KocyEeVLa3dXE1Nz7B1n8bxnfkcbZAi8m1rdxHk2_kDX289XPJBMVEaHxtgGJDyEJdJp3_U--LO9WyfpV196qy7c3wutIEdTWd_rFX2AWEvCeytDJ6y3A_5O7zvGfmq-YrPogFU17nUuUbrM0yWU1OPZunXHDja58XfAbigTYhzpE-UW9UosBvI8PsuGr3Fb6qbPGsnEzuuorNuoVjdhDXDBrmKdQyxroxyuWg_qYrAa7Q-FmAE1KkLfY6tgowevUiH4i6oMLb7q2grlbJwDQkku7iUw	http_500
+https://cdn4.telesco.pe/file/3386912fe9.mp4?token=vtZKTfBwx-NeuomXJJoOmTcdXopKuOh_CSzKX_OnfULufJE40EPlbQvhZVS67jX7dZ7UZv5R9wjuIPzxzMXNzPv0A0sy-GXRdygVJAyiwoabNnzlZGch-TvylsoMGvhC6o4nDxkarDfPM2jYtThojmJabcAN-2XvNH1C7ySJNJ9Nt9-UPNe-9bKlNJhDsEgOFkJyLguWbtRmTR2UCu233By8HhCxnyV62tC2-MX4raRwyRbesQ9gkHuxrrrKCSP7dCiy9XvZ2mjQLKwnfxElvt37nK0UD4kFNtGPr4NicV7m5NbFvYdsSuRsb1hZZBYV2VJWfcNmN4AUNS-ZGapAQg	http_500
+https://cdn4.telesco.pe/file/hHz6h6zr4EUIV_9h-HlmoOISF7h7UZ8tEm7tCeJ1l9ae7oy8BNi0FAzsjfyY9WgvHoznLE04kbwft9NmCU4kD9LprkO7GmjYCZiL-tZEqwvuwq3g8_0aY308JzwtJb4c63T7E3HGPsnU06EaHYJp-5j3YaPmIjXG007jmFjqO36ZFKlOv6RNDZlnnkeDr9XjWmZ8fkAZz39J7l9gs97h6232CPalJAcTRqyERoYlYZIYnm4qLWOzmfwniRfvtwuvFMVwTN7TpfwSGMMMiUUjFsBDOaqwos7r13wIzO1uwl3Ub-15DP2O2Z4jcQ2u0SeYgvzAiwh3LSrtvAvtIYz4EA	http_500
