@@ -10471,3 +10471,18 @@ http://1.3.24.0/	request_failed
 
 === 2026-08-22 04:28:50 - 失效订阅 (1 个) ===
 https://proxypool.link/clash/proxies	http_502
+
+=== 2026-08-23 04:24:47 - 失效订阅 (9 个) ===
+https://f105039.lvcha.me/?ch=105039	request_failed
+https://b.wazhua.org/web?token=624e578086b6af9fc2c34d29b1884cce	http_403
+https://sus.clodom.link/message/api/sourlist/69ce16c5eba17085104f73fb1cb61362	http_403
+https://xn--9kqx21a0sv.top/#/register?code=lkf4P5I0	request_failed
+https://cdn4.telesco.pe/file/SMokcQuzgQD_N1JT82bRnt8CscHDUDp3Hf-4S4PCmMxXAGAVvHY01_nEok0M8CsOzv_r67mSB2IqPifyX5kTIFsHgHVnlHXfcDejFlDXRM2qGY2GmCoc7IgokNxCa8yrleO3iEq0M5aVls5tk2RiI-1U9xNHCdpkqXq1T6hxMawoMV7haT2ijpXdUmsCfPiAzKr7iFFsoxcaYXzHW0e7BmYcIhRFokAIo1cAJXdP-ExKh6QKLCz4XfYcmdGDCBXFsKxZkeA4ehV4iAsGa1f4c1wEbHwc6rdvPW86fogXsvM3vFXAhp1oos0hVFh-obzrHhmFnfChZDkXwnB9rvhclw	http_500
+https://cdn4.telesco.pe/file/K8I83HpK7Pu7AVueDFRfSTid6w7buYgp_cUhbYaUyFFd5YDtpAxDwVtMcAeAhLDSUi_lcSBZotzHrzhPmmC6pb5PfUW9z9ztyiOsG_UD10vtvC_e5ayxl10269Ykrx4BeuL8ayIdkCsfnuKMPOok6fpCmHTYjVK3YAvFr69ZxSeM79ySYY48iGRtAySIcUfhXDUNe9otYs8-V7ayQxmupTzjgXhDuglODdiMbJb8ljVswlcx7MAiBG42dbMF2VALtEOXEP-YdObK67wL9xX7Qq-_rvxsfmrhv2SOj5N0rY-NkBW__tZoBL29YiuIKPrbrjaw-W6991taq2_I3FNP7g	http_500
+https://cdn4.telesco.pe/file/nA5GKIHlRnfgfdmKzWkZHYbQJKlcqRjKPOl6Awj3Dmj4nlB8O_-J9qZG2oGlXcQg4d4vA_xBrSxbwhvbCil3h47HrzWGL1VRc8J0e9Utuxs83Hdk8nZPhI27lCv69sQAIZrorTBepHCL1K2tHFrIy6NpOjyZRJ99aXO0TJAIJvD2GhLxpWqeCV0CBwUxsjQ_FHm700Mw-H1sJgoL1qifX5dX3O3mhd2VnHk0EZz2awNdjw4zonWHdzQERvMcr2MJiKm96q13WxcHtDFHMVlbGYnOUbJPgDs5z6BUcfRcrh9--ajIDvIpi4ibfHBN9Pyxsk7gjp6bkzqYC-WFcGJR-g	http_500
+https://cdn4.telesco.pe/file/80c2c0c8dc.mp4?token=hkRNt0Yt72E9XJITGAuxg1gBLoRqRwkEYGzLm4hJTqskmzkGIBRar_cnT8Za7sA6y_Odcyq5qxkziKVOloeibDHQST1InrBAJZ9ZOCdhWjW5PtvIY0DKiFZ5jkdhvdFzKJwBSzP4u46JOg0mmDXHbbNycaz3nCL5EUI7IUQQRsWO9Loc-hSNcRWViUT74f7INqoRc1JHmK9r_fVOcDc71QciR377C6cQCQ7ikMpkdOs8lh8bgSGtyV7oYYQ4zzxOnOWjnI6igp3JKk6zbjB3jGUrCOB3XzhnC9ZjeYS5YDzGTRgvCZMfOoj_JowyMog9XWqaS3oCXG8njp-FJzXo6w	http_500
+http://5.0.1.5/	request_failed
+
+=== 2026-08-23 04:25:27 - 失效订阅 (2 个) ===
+https://v2panel.ccwu.cc/s/4040425c86e2b4559ba3c98f41bba515	http_403
+https://v2panel.ccwu.cc/s/0efe8806b56fd8add84ad99234022331	http_403
