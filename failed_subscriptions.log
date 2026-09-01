@@ -10854,3 +10854,32 @@ https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-conf
 
 === 2026-09-01 07:41:47 - 失效订阅 (1 个) ===
 https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray	http_404
+
+=== 2026-09-02 06:27:21 - 失效订阅 (10 个) ===
+https://i105039.lvcha.me/?ch=105039	request_failed
+https://www.yc.xyz/?code=Y5CXHS	http_500
+https://www.yc.xyz/activities/2092518855262867456	http_500
+https://www.bloomberg.com/graphics/2026-opinion-ai-campaign-ads-need-more-safeguards/	http_403
+https://47.242.128.61:5000/api/v1/client/subscribe?token=edf98d17984e4725a635a8f20147c1d5	http_403
+https://cdn4.telesco.pe/file/EcB5gyF2s8wiT8oO458kRLxGi58PxE94EPp4oH1lXZKBKnPO5EwiZa6KwcjJXJDnhW2BslCVEl3nd-3aAvx4-dJhGj9jIYm_W9JxsK8tOKEgD51Ucxpqnl8JXSxS8AW5RbS43Ci1YR2hwQRd_6og51kJ6i_VJY8U-e4vrNjT12ZSYzSAFSr_SLFG6w6uxo_GVqBFh12cPCSyn3E78bqSdteuwr47ixvWvFRE2iWEf7dtyQQOKQStm1pG5Oae0kYbIhO21VnjnspwqCfH0nvM-gQzKwb89SjHHxmHRV2r1QF8j_tUL7M7h5688kXLj06u5mrfcMslXHDFQlWFEYoMlQ	http_500
+https://cdn4.telesco.pe/file/l__LFSd0OciJqDVptSLp-nGLq2D-z8QAHn-LeBNLy50pgZpBZmHckMkhTyURE1ij8uZ_X6k_bAI7o43XsuLRcFjhY-9BaQRjp6Ht_5XK6X9NsXhq_IICgQThu7RZj3oCv47UD_se8x3poSugPWCPLgnDuhWtm0Z_2Th6l9_t4ClCZNniacsnIczen5ZHN1gzTqyqqJ_GcJjURCHO9XuKbBhtQIpvPS9VN2JEJi2Is9h8lyeqWs-v9dBSWaoI-pnFm-EXi6zArkKWYySFur63kFTQ2Dc6IYBhE8oUEmPwRdHkqJzoAq5fSzfgq8_tTsTyTtLZtWcEk4LpZ77FOKRbJg	http_500
+https://B2n.ir/er2642	http_403
+https://cdn4.telesco.pe/file/44fae1b967.mp4?token=EyklZT4zCVW5_rkdotP6R5rVZdY7z2_VCEYOyqC_PRfSYwiwg69cwJxQOvTraKR3Gnhl3QDcmRYZ4JgwwZRsnVVAvpEF51xCtuuKo2OaaSwi-_dYSFBiQO0hRgoJgqngyM5EiQHYIuBQ_SdzJ1xLun_VOmxgZWVUyyTMU0TgdL3XRCRgno1Y1ntUbTl5XjUE2njoIprQFD1niktt9_EC65xhpnx89V7GBlX4F9AitkqfCN_mJrhpyrhIFEPU4KkooaEapCJoVB1c4MQlGiLXeI0KwoZRlMFsSqS6pGPVNcLyn3_M4mtreE6NVU2oqr8aUrqpaLrmmYZ2LUdao3_9LA	http_500
+https://raw.githubusercontent.com/mfuu/v2ray/master/clash.yaml	http_404
+
+=== 2026-09-02 06:28:06 - 失效订阅 (15 个) ===
+https://shz.al/cXBY	http_404
+https://v2rayse.com/fs/public/20260430/free-node-share-2000.txt	http_429
+https://v2rayse.com/fs/public/20260511/free-node-share-2000.txt	http_429
+https://v2rayse.com/fs/public/20260512/free-node-share-2000.txt	http_429
+https://v2rayse.com/fs/public/20260512/free-node-share-0800.txt	http_429
+https://v2rayse.com/fs/public/20260515/free-node-share-2000.txt	http_429
+https://v2rayse.com/fs/public/20260514/free-node-share-0800.txt	http_429
+https://v2rayse.com/fs/public/20260602/free-node-share-0800.txt	http_429
+https://v2rayse.com/fs/public/20260516/free-node-share-0800.txt	http_429
+https://v2rayse.com/fs/public/20260531/free-node-share-0800.txt	http_429
+https://v2rayse.com/fs/public/20260527/free-node-share-0800.txt	http_429
+https://v2rayse.com/fs/public/20260603/free-node-share-2000.txt	http_429
+https://nodebuf.com/files/public/cmthwiwdb0khp6l5wukl30p8m/download	http_429
+https://nodebuf.com/files/public/cmtim7zj70ujk6l5wg5cnot9g/download	http_429
+https://nodebuf.com/files/public/cmtim7zj50ujj6l5wyekmdd7v/download	http_429
