@@ -11352,3 +11352,20 @@ http://data.tuik.gov.tr/	request_failed
 
 === 2026-09-19 06:23:55 - 失效订阅 (1 个) ===
 https://liangxin.xyz/api/v1/liangxin?OwO=82bf385b563bb02b6a830d91c7d771f8	http_403
+
+=== 2026-09-20 06:13:16 - 失效订阅 (15 个) ===
+https://3x.lbruh.xyz:2096/api/all_in_one	request_failed
+https://53338.cc/	http_456
+https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.277	http_403
+https://sus.clodom.link/message/api/sourlist/11d0fde181af461da5613475328dfd9f	http_403
+http://musicmap.info/	http_202
+http://dp.la/	http_403
+https://cdn4.telesco.pe/file/b0533c1cc6.mp4?token=ShO9AobRiofJ6XoV2-_DOtVxRN-R_JyPGKoWQzrTit4P4j2LHwE_FkZWNxy5MJilHZ3rEM1fRhmQd99ARVlt3USl_Rwj666wkBAGjIf_ZctRB5N6AGoeBeMgp3FL6VdLXjbIm08B6HA84Ei2FMjPcf2PL4SOvam2blh3EQhl__SiPi5-OWpBfdIcAjfPzLLbCD6KbbqwFvRuHBhY1BjPLP7RgeuCpDxEdaEGhCjyZdYHKogmBcS9sVILHt75k08lvsUnd0gnZvmcGNaOz4D7uWTWaVyn5JSZp2t82xZ3DPo4qBc72xygpoAI2d-xQqYlF_ULIo6I4dBVbwDmOhPB7ZTtUzFLJScF4arkufVz8xp5van0JSf50CmGFJ2AvyDQWMr16jU9_I2RHaqRtOn9_TjiKjUNlHTb8McJ38YQnhS2Ftpthi3m83nc8LLv8NwutFBKeWAzhCg_TuepNA9JNKfWtFkVkmAnWLX9Lih2wEN_a-z4qV63V6ml9_kdcRwtbJvQoXm6-PTUgo_h_mptvUJWsOmGXnsHlOwE7aIFCWRG2MWAJT2PRv3SH9H0Or2Jzvm-Lvyzy5_m4_4hjLxQLMMjUxBsfNmLelyB-Gi-yqPIXlQSGoGFS0d-G0YkOgAS41C08oMT6CSPmN5C1CJrOafNAUFapolOj5WZ7ZcklSM	http_500
+https://cdn4.telesco.pe/file/3ca04a5325.mp4?token=CZWddsQI6XyBD_APUl5s5RHD3QgJMlT8OuNwBhSUI189ltu5YDb8Or1yNNygXcKIi6OdEgIpJF3VdlYftXF0UgK40kvsEx7UmzQJ5EOz4lOe8Mh1csormtYisYxteRctNlhTkqkQLIVBQXmivvDU_0ZYCnpgAuGWxkMmkI_hdMHpJ7MtTcXrPkJqYbx8VUcubB2OZL3ygwAw8sfZ5XLF1283Euz4A_j_WnMtO3fIkngzX5bKjNWsePIujX65cqDSTHDPlPD5_rOkmTxvz_x7TUzWNyBuN40P3NAUY3PPB7ASMVVP-Xkl7BSqgHQoMgb5nT60K7dlTiQcTJ15hJ4xuw	http_500
+https://apps.apple.com/us/app/oneboxm/id6759716475	request_failed
+https://cdn4.telesco.pe/file/hnZuzTBNnhcfzkB6M3RMaELwYwdYzgKsc-kUU6HPaR9jOOfqg9u5H5BEi7NeGesAggVrHTmd0-m-TFYhil9voyPtVh4fjY26d2sjdejMaFTDEMaa66X5J68CSvdQuV-yxCgplJhEfhx2wKJOqy6R0zE34_ij7dj_K9-zm4bMZPTUD0YKoT071GMHcZnxQ9Ah8DPIkTIPv80mRpko0QCQTYBq8Gy34vAyZSFcTr_gc1ASGfKKQ9ILVNlJZS4lxxqpaHYYQwHaftnaRiFqpx5JtF-rjZrXiQ-oCVVAbj3ZWqHZF4N6-51KrV_GUNnhhrqHHOHts_S9j3z41ilT1Pqx5g	http_500
+http://3.5.0.3/	request_failed
+http://apps.apple.com/us/app/everywhere-proxy/id6766003090	request_failed
+http://apps.apple.com/app/id6754511751	request_failed
+http://0.9.4.12/	request_failed
+http://apps.apple.com/app/id6744321968	request_failed
