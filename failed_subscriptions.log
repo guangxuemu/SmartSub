@@ -11369,3 +11369,28 @@ http://apps.apple.com/us/app/everywhere-proxy/id6766003090	request_failed
 http://apps.apple.com/app/id6754511751	request_failed
 http://0.9.4.12/	request_failed
 http://apps.apple.com/app/id6744321968	request_failed
+
+=== 2026-09-21 06:15:26 - 失效订阅 (18 个) ===
+https://web.archive.org/web/20260903110250id_/https://www.trae.ai/pricing	http_429
+https://vmess.fxxk.dedyn.io/sub?cc=BBs7&amp;host=serv00s07.wangdaju.pp.ua&amp;uuid=d36c4d9f-31c4-45f1-8c64-102a6142001e&amp;path=vmessed&amp;alterid=0&amp;security=auto	http_400
+http://176.111.37.216:39811#%F0%9F%9A%A894@oneclickvpnkeys	http_400
+https://cdn4.telesco.pe/file/cdcba43eec.mp4?token=UsH0SBSjecBkQGB7e8CeB6dsjyeTqTMLVonvpuHeYonSvQL8nc7ZD1EuQ5r_3QH7plb_Sj79uJN_0UQnPuSzVClno6foWQ_IvqzkaZFWsDLsfd_4acByWoRoJZaNNcg3XxOMbjlNE0TPiyUg1xfAcAC4WOlLO-NNLLRAqI8SgZiyzi-ugEXCOqaVWeCqxf7-eNW7LvNlMoXm6u-IPMP4V6pOOjR8gKCH80UOYr2FTXLkDIfSTOidswnN68ma3tJ28QfB719dsQl7RWAC-YlcWA1ub6PECzOyu3kRPwr3Xh9E8SrPxC0eyOj0tOVlvVOk07Yj1YoaivDilff6J93SiA	http_500
+http://91.228.89.45:7#%F0%9F%9A%A844@oneclickvpnkeys	http_401
+http://88.87.6.135:3030#%F0%9F%9A%A872@oneclickvpnkeys	http_401
+http://45.132.252.25:49156#%F0%9F%9A%A8100@oneclickvpnkeys	http_400
+http://45.159.0.194:5050#%F0%9F%9A%A890@oneclickvpnkeys	http_401
+http://178.217.12.89:6669#%F0%9F%9A%A899@oneclickvpnkeys	http_401
+http://195.158.232.253:8998#%F0%9F%9A%A889@oneclickvpnkeys	http_401
+https://mihomo-fa.ai.studio/api/sub?id=zlae3yv1	http_404
+https://cdn4.telesco.pe/file/9dc2d70b63.mp4?token=g6TSRTll-N4fQqzvwi9Vq4aKnegGUfwELtQaqP8xfyPkwgRJiDPr4gQ9_G6bY71fAQMz6OI1aygjTwXfNadiefFZcGAEbqXjKlVKAI5AUqUBeYbIgfi3Ffjv-BhVmNABsAalaxS9qT6Cf7U9RdJ5xCAOb9IKiQ9eXKCNcc0ClXHsvUWY-6RYXl4cJoTyaJgwy_o7xbghTwTLwKwubnWSmcmSN2IJ6iHPh0h421Zpq6Jlv5lKjIrYASjx-2zwGjqmTWSlG5mZ8axnBmhkXAOChLQgbK7zWDBomidTmBY9tHMQzezwSPgj_E2JLehj2glGxmVtHKi-QrgUGHcgusIi2Q	http_500
+http://apps.apple.com/us/app/anywhere-proxy/id6758235178	request_failed
+https://cdn4.telesco.pe/file/8c77e3d743.mp4?token=qPIZRYRuGCpj46N88Pgw8Mx1t5MTlwJVjSbxRb_lyB4a0a2gIAtqN6u-HC_i79TAzR7moPS3009BFGi9vbaMSObCvTOjyVsrqfWYOohAjtf1SKO1kkDakcg3ovaYbDMbid7gFgHRSRm5VkoE8oqsv3JzJb_XI-AvcYM7mH1AJXQdNZMKVCpgVSqbBNjKs8bq3ZP8yZlE8mh423IKcAet5PbKgp9z4jgIZutoIl40IAeYyjsaCZZp8viyaZFMgvlxim4oQiXhZsUmlvEpBGSVT6P5PjYhWaEZjcVo99Guoj-rDOf2bXur3i8NCltRGlnwbasl1Pr78FU3m2_O151MqQ	http_500
+http://apps.apple.com/app/id6754002454	request_failed
+http://apps.apple.com/us/app/connect-now/id6749354119	request_failed
+http://apps.apple.com/app/id6794257189	request_failed
+http://apps.apple.com/us/app/susi-connect/id6759531907	request_failed
+
+=== 2026-09-21 06:16:07 - 失效订阅 (3 个) ===
+http://198.200.42.129:8080/mysub-a7f3k9x2.yaml	request_failed
+https://fasttool.org/api/v1/sub/0Z9ZJANxZrF9d38InX9i4ZtBYXe-4vyS	request_failed
+https://xn--kivt58h.lol/s/65725a701c52c5dfb7be2e61a367dd11	http_403
