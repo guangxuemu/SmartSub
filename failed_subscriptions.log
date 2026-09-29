@@ -11542,3 +11542,20 @@ https://cdn4.telesco.pe/file/fp2nGqDYm4q9sq2TdUsrxKn8YrX1oQdtYPM5acu41q4z_ctt-ow
 https://clash.leozai.com/	request_failed
 https://clash.leozai.com	request_failed
 http://192.255.151.112:2080/personal-clash-e87d6a5cf302fcbe18978c4119d76cefbd85531ab7e0bd0781e9a9fec49e4828.yaml	request_failed
+
+=== 2026-09-30 07:32:08 - 失效订阅 (10 个) ===
+https://sss.andycloud.cc/#/register?code=ZfcvYBN2	request_failed
+http://107.167.18.122:443#%F0%9F%92%A187@oneclickvpnkeys	http_403
+https://fan.973511.xyz:443#%F0%9F%92%A175@oneclickvpnkeys	http_400
+http://lzpaxacs.shop/registration?tag=d_699225m_33771c_	http_203
+https://189.24.64.91:33333/api/v1/client/subscribe?token=b8d6424c3744287240cb3b63e3c55a51	request_failed
+https://189.24.64.91:33333/api/v1/client/subscribe?token=c001630b44b444c16060d2e3005bbba1	request_failed
+https://189.24.64.91:33333/api/v1/client/subscribe?token=b5c6b600cd9b5800c68b4f8de3d87e38	request_failed
+https://189.24.64.91:33333/api/v1/client/subscribe?token=2f443340c96ee3930541982a00d69bec	request_failed
+https://cdn4.telesco.pe/file/47de23f036.mp4?token=nHUD-bA3ZRSyqcYqWC5lyQZlN2-MmHfI3NMnXaEnue3TbCNVN6Y-j3W6T38Q6rncMQZv30YwnirWTb8r-2KpM99584HMLvAKIoFWY-rJgtjGkD4KyQy5FGRqH6sHg3Hk7WwAJ-B6PVvOhSBRfbAVaqaphphHZz0ardZ2FSGShFLbAkk79j3h75HhCf8-t0bzDYtZaQvhtVxKq-wMiywLWn-WJ88mgYBKUo9YWmf40xv9tXplT9QIZmXvNCDDx_Fj9G8A0-jFI-ZOQFWonv8S7VWC_eG3cgkKTtSH06P5c38uP6a7hqV4xUrLudNuvetwEwRFiPeOr97kTZcMYeEwdg	http_500
+https://cdn4.telesco.pe/file/4ed2f744f8.mp4?token=m-wpPcX-NKKi6kL4itMQyLmoDUczFafZYf40f7MKV9bJlZjsHQ8ZXUoQ1NdzYJslQN68uwtgI349UdJOJGMz1M5_qh8bu6wNbEEZqd0-5_rP5FCypdnEnZSmAudxfQ06_xzaF-eYBEmtBh8Co4I2UiorO9FnQ-DSBzbT_QXiGGr-i-yQRZrRnW262qT-SQnXs-WnFqIeOD9S4wrWYXJThNY53JKwYkMr5ZFgpvJsfGcsZz1UHQexRc0m2T0nGrOy28eLIkkvLIbb-Ir_fWjTBkRe6wTJE3z6TMRN7-5QPKkBmdb0w3veN_6yWIoBO2WS6fuV-HTTeaUfFnd3Rj-BzA	http_500
+
+=== 2026-09-30 07:32:56 - 失效订阅 (3 个) ===
+https://l1wn2.no-mad-world.club/link/ZMOoNEXC8crj3cYe?clash=3&amp;extend=1	http_404
+https://wzyun.oadvan.cn/api/v1/client/subscribe?token=6c0a065300d9e40c124b462d95340267	request_failed
+https://v2rayse.com/fs/public/20260509/free-node-share-0800.txt	http_429

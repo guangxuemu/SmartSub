@@ -5,8 +5,9 @@ http://sub.shkola112.site
 http://sub.shkola112.site/
 http://sub.shkola112.site:8080
 https://sub.femboy.us.ci/?url=freenodes
-https://ys.jiedianxielou.workers.dev:443
 https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
+https://ys.jiedianxielou.workers.dev:443
 https://rifiv.no-mad-world.club/link/nIHOtvpB6zMwsos7?clash=3&amp;extend=1
 https://pcq7y.no-mad-world.club/link/Lnhw8YmdYo7on5BF?clash=3
 https://uecrt.no-mad-sub.one/link/6B5qoBrGsC2f9ZKB?clash=3&amp;extend=1
@@ -22,8 +23,6 @@ http://clash.liudonghoe.com/
 http://clash.liudonghoe.com:8080
 https://clash.liudonghoe.com
 https://clash.liudonghoe.com:8443
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
-https://www.xn--kivt58h.lol/s/a55ca516c9ef4234ab53e384e69a2456
 
 
 -- sub_list --
@@ -50,5 +49,4 @@ https://pcq7y.no-mad-world.club/link/Lnhw8YmdYo7on5BF?clash=3
 https://rifiv.no-mad-world.club/link/nIHOtvpB6zMwsos7?clash=3&amp;extend=1
 https://sub.femboy.us.ci/?url=freenodes
 https://uecrt.no-mad-sub.one/link/6B5qoBrGsC2f9ZKB?clash=3&amp;extend=1
-https://www.xn--kivt58h.lol/s/a55ca516c9ef4234ab53e384e69a2456
 https://ys.jiedianxielou.workers.dev:443
